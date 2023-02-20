@@ -3,6 +3,3 @@ This is a simple Ruby program that calculates the check digit for an ISBN13 numb
 
 Usage
 To use the program, simply call the calculate_isbn13_check_digit method and pass in an ISBN13 number as a string or integer. For example:
-'''
-# your Ruby code here
-'''
