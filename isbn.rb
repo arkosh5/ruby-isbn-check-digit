@@ -29,3 +29,6 @@ def calculate_isbn13_check_digit(isbn)
 end
 
 print calculate_isbn13_check_digit(97801430072)
+
+calculate_isbn13_check_digit("978014300723")
+# Returns "9780143007237"
