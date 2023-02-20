@@ -4,5 +4,4 @@ This is a simple Ruby program that calculates the check digit for an ISBN13 numb
 Usage
 To use the program, simply call the calculate_isbn13_check_digit method and pass in an ISBN13 number as a string or integer. For example:
 
-https://github.com/arkosh5/ruby-isbn-check-digit/blob/15fa705b9b54ba29c1a85803a26d4d19269cc7dc/isbn.rb#L33
-https://github.com/arkosh5/ruby-isbn-check-digit/blob/15fa705b9b54ba29c1a85803a26d4d19269cc7dc/isbn.rb#L34
+https://github.com/arkosh5/ruby-isbn-check-digit/blob/15fa705b9b54ba29c1a85803a26d4d19269cc7dc/isbn.rb#L33/isbn.rb#L34
